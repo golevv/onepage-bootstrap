@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #e9e9e9;
+}
+header{
+    padding-top: 39px;
+    margin-bottom: 169px;
+}
+.container{
+    max-width: 1170px;
+    margin: auto;
+}
+.container:after{
+    clear: both;
+    content: "";
+    display: block;
+}
+header .logo{
+    float: left;
+}
+header nav{
+    float: right;
+}
+header nav ul{
+    list-style: none;
+}
+header nav ul li{
+    display: inline-block;
+    margin-left: 30px;
+    padding-top: 7px;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: #191919;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+header nav ul li:hover a, header nav ul li.active a{
+    color: #10c9c3;
+}
+.fl_right{
+    float: right;
+}
+.banner_information .fl_right{
+    width: 42%;
+}
+.banner_information h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #1d1d1d;
+    font-size: 38px;
+    margin-bottom: 44px;
+}
+.banner_information p{
+    color: #787878;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+.contentaqua{
+    background-color: #10c9c3;
+    padding-top: 101px;
+    padding-bottom: 99px;
+}
+
+.aqua{
+    float: left;
+    width: 25%;
+
+}
+
+.aqua img{
+    margin-right: 30px;
+
+
+
+}
+.aqua:last-of-type{
+    margin-right: 0;
+}
+
+.aqua p {
+    display: inline-block;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+
+}
+
+.aqua span{
+    display: block;
+    padding-top: 10px;
+}
+
+
+
+
+
