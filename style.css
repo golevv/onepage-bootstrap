@@ -96,7 +96,11 @@ header nav ul li:hover a, header nav ul li.active a{
     display: block;
     padding-top: 10px;
 }
-.gitt
+.gitt{
+    background: red;
+    height: 200px;
+    text-align: center;
+}
 
 
 
