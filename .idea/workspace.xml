@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cfdef60-063c-4d61-8da2-002238b0ece1" name="Default Changelist" comment="div/background.&lt;P&gt;">
-      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+    <list default="true" id="1cfdef60-063c-4d61-8da2-002238b0ece1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flex.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -75,7 +78,20 @@
       <workItem from="1578823521443" duration="3499000" />
       <workItem from="1579007200621" duration="1744000" />
       <workItem from="1579017393382" duration="133000" />
-      <workItem from="1579277006058" duration="2124000" />
+      <workItem from="1579277006058" duration="5910000" />
+      <workItem from="1579283068568" duration="165000" />
+      <workItem from="1579622433081" duration="151000" />
+      <workItem from="1579622629552" duration="116000" />
+      <workItem from="1579622783454" duration="6767000" />
+      <workItem from="1579866698525" duration="6298000" />
+      <workItem from="1579880919335" duration="533000" />
+      <workItem from="1579881497091" duration="1253000" />
+      <workItem from="1580473627503" duration="6642000" />
+      <workItem from="1580486255176" duration="4565000" />
+      <workItem from="1580812696886" duration="444000" />
+      <workItem from="1580813477186" duration="16000" />
+      <workItem from="1580813494839" duration="465000" />
+      <workItem from="1580824827106" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="div/background.&lt;P&gt;">
       <created>1577469575531</created>
@@ -98,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579007434331</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="jqery">
+      <created>1579279164367</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579279164367</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +144,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="div/background.&lt;P&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="div/background.&lt;P&gt;" />
+    <MESSAGE value="jqery" />
+    <option name="LAST_COMMIT_MESSAGE" value="jqery" />
   </component>
 </project>

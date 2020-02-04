@@ -10,13 +10,20 @@
     <link rel="stylesheet" href="fontawesome-free-5.0.8/web-fonts-with-css/css/fontawesome-all.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="css/style.css">
+
 
 
 </head>
 <body>
 <header>
+
+
     <div class="container">
+
         <a href="#" class="logo">
           <img src="images/One-Page_03.png" alt="logo" />
         </a>
@@ -226,24 +233,39 @@
 
         <!-- Set up your HTML -->
         <div class="owl-carousel">
-            <div> Your Content </div>
-            <div> Your Content </div>
-            <div> Your Content </div>
-            <div> Your Content </div>
-            <div> Your Content </div>
-            <div> Your Content </div>
-            <div> Your Content </div>
+          <div>  <h4>
+                “ Outstanding job and exceeded all expectations. It was a pleasure<br>
+                to work with them on a sizable first project and am looking<br>
+                forward to start the next one asap.”
+            </h4>
+            <p>
+                Michael Hopkins
+            </p>
+        </div>
+            <div>
+        <h4>
+                “ Outstanding job and exceeded all expectations. It was a pleasure<br>
+                to work with them on a sizable first project and am looking<br>
+                forward to start the next one asap.”
+            </h4>
+            <p>
+                Michael Hopkins
+            </p>
+            </div>
+            <div>
+            <h4>
+                “ Outstanding job and exceeded all expectations. It was a pleasure<br>
+                to work with them on a sizable first project and am looking<br>
+                forward to start the next one asap.”
+            </h4>
+            <p>
+                Michael Hopkins
+            </p>
+            </div>
         </div>
 
 
-    <h4>
-        “ Outstanding job and exceeded all expectations. It was a pleasure<br>
-        to work with them on a sizable first project and am looking<br>
-        forward to start the next one asap.”
-    </h4>
-        <p>
-            Michael Hopkins
-        </p>
+
     </div>
 </section>
 <section class="emblema">
@@ -374,6 +396,27 @@
                 </ul>
             </div>
         </div>
+        <div id="dialog" title="FORGOT YOUR PASSWORD?">
+            <div class="center">
+                <form>
+                    <label for="login">enter your <br> email</label>
+                    <input id="login" type="email" Name="login"/>
+                    <button type="reset"> reset password</button>
+                    <p>or</p>
+                    <a href="#">
+                        <i class="fab fa-facebook-f"></i>
+                        log in using facebook</a>
+                </form>
+                </div>
+            </div>
+    </section>
+    <section class="clock">
+        <div class="container">
+        <div class="minute"></div>
+        <div class="min"></div>
+        <div class="second"></div>
+        <div class="sec"></div>
+        </div>
     </section>
 </footer>
 
@@ -383,6 +426,14 @@
         crossorigin="anonymous"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/scripts.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+    $( function() {
+        $( "#dialog" ).dialog();
+    } );
+</script>
+<script src="js/bootstrap.min.js"></script>
 
 </body>
 </html>
